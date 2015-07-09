@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging /Volumes/DataHD/Online Courses/reactive_programming/kvstore/target/scala-2.11/kvstore_2.11-0.1-SNAPSHOT.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	kvstore/Replica.scala[0m
+[0m[[0mdebug[0m] [0m	  /Volumes/DataHD/Online Courses/reactive_programming/kvstore/src/main/scala/kvstore/Replica.scala[0m
+[0m[[0mdebug[0m] [0m	kvstore/Persistence.scala[0m
+[0m[[0mdebug[0m] [0m	  /Volumes/DataHD/Online Courses/reactive_programming/kvstore/src/main/scala/kvstore/Persistence.scala[0m
+[0m[[0mdebug[0m] [0m	common/package.scala[0m
+[0m[[0mdebug[0m] [0m	  /Volumes/DataHD/Online Courses/reactive_programming/kvstore/src/main/scala/common/package.scala[0m
+[0m[[0mdebug[0m] [0m	kvstore/Replicator.scala[0m
+[0m[[0mdebug[0m] [0m	  /Volumes/DataHD/Online Courses/reactive_programming/kvstore/src/main/scala/kvstore/Replicator.scala[0m
+[0m[[0mdebug[0m] [0m	kvstore/Arbiter.scala[0m
+[0m[[0mdebug[0m] [0m	  /Volumes/DataHD/Online Courses/reactive_programming/kvstore/src/main/scala/kvstore/Arbiter.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

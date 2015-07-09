@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0m[32mFlakySpec:[0m[0m
+[0m[[0minfo[0m] [0m[31m- case1: Handle Flaky Nodes *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.AssertionError: assertion failed: expected OperationAck(1), found OperationFailed(1)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.assert(Predef.scala:165)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.expectMsg_internal(TestKit.scala:339)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.expectMsg(TestKit.scala:315)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKit.expectMsg(TestKit.scala:718)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at kvstore.Tools$Session.waitAck(Tools.scala:44)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at kvstore.FlakySpec$$anonfun$1.apply$mcV$sp(FlakySpec.scala:48)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at kvstore.FlakySpec$$anonfun$1.apply(FlakySpec.scala:30)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at kvstore.FlakySpec$$anonfun$1.apply(FlakySpec.scala:30)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
